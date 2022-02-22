@@ -1,0 +1,5 @@
+
+{
+java:S3252P"eUse static access with "org.apache.hadoop.mapreduce.lib.output.FileOutputFormat" for "setOutputPath".(û√¨Ä
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ì Øµ
+b	java:S101-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Âáìç

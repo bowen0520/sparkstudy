@@ -1,0 +1,15 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åö”İ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åö”İ
+g	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‹¿à
+g	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÍ¨í
+f	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ù†o
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
+ƒ
+java:S1845·"lRename method "quicksort" to prevent any misunderstanding/clash with method "quickSort" defined on line 179.(«÷¼‰
+O	java:S106"9Replace this use of System.out or System.err by a logger.(×Æáî
+R	java:S125ƒ"<This block of commented-out lines of code should be removed.(å“á
+W	java:S125½"<This block of commented-out lines of code should be removed.(©‘ÕÛşÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(ƒæÃÿøÿÿÿÿ
+R	java:S125Œ"<This block of commented-out lines of code should be removed.(Œøº

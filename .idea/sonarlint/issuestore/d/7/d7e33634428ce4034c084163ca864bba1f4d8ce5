@@ -1,0 +1,53 @@
+
+o	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰öˆúÿÿÿÿ8®ë³ Å.
+E	java:S108Z")Either remove or fill this block of code.(”ı¾8ŞÆÃ Å.
+k
+java:S2095Y"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(ìûÙ»øÿÿÿÿ8Îòà Å.
+E	java:S108q")Either remove or fill this block of code.(”ı¾8ŞÆÃ Å.
+9
+java:S3626»"Remove this redundant jump.(ûÁİ…8şğ Å.
+M
+java:S2093°"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ŞÆÃ Å.
+p	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹§¬ãûÿÿÿÿ8ŞÆÃ Å.
+M
+java:S2093‡"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ŞÆÃ Å.
+p	java:S100™"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¹Õüÿÿÿÿÿ8ŞÆÃ Å.
+h
+java:S1192`"KDefine a constant instead of duplicating this literal "Exception:" 7 times.(¢Â¥Œ8ŞÆÃ Å.
+E	java:S108*")Either remove or fill this block of code.(É®£8àŞé Å.
+E	java:S1082")Either remove or fill this block of code.(É®£8Ô¥ê Å.
+k	java:S100¬"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãş²ı8ŞÆÃ Å.
+L
+java:S2093W"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ŞÆÃ Å.
+E	java:S108N")Either remove or fill this block of code.(É®£8‹Ší Å.
+g	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(¦‡Ûçùÿÿÿÿ8¸“á Å.
+o	java:S100j"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¶·ëúÿÿÿÿ8ŞÆÃ Å.
+L
+java:S2093n"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ŞÆÃ Å.
+F
+java:S2115"")Add password protection to this database.(”Ö²§8¦Û Å.
+F	java:S108 ")Either remove or fill this block of code.(”ı¾8ŞÆÃ Å.
+g	java:S112a"FDefine and throw a dedicated exception instead of using a generic one.(ŒÚ„§ÿÿÿÿÿ8Îòà Å.
+E	java:S108F")Either remove or fill this block of code.(É®£8ŠÛë Å.
+V
+java:S1143a"4Remove this throw statement from this finally block.(ŒÚ„§ÿÿÿÿÿ8Îòà Å.
+F	java:S108Š")Either remove or fill this block of code.(”ı¾8ŞÆÃ Å.
+o	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‡Ûçùÿÿÿÿ8ŞÆÃ Å.
+F	java:S108³")Either remove or fill this block of code.(”ı¾8ŞÆÃ Å.
+_
+java:S1163a"=Refactor this code to not throw exceptions in finally blocks.(ŒÚ„§ÿÿÿÿÿ8Îòà Å.
+l
+java:S2095Ÿ"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(ìûÙ»øÿÿÿÿ8ŞÆÃ Å.
+M
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ŞÆÃ Å.
+e
+java:S2095>"HUse try-with-resources or close this "Connection" in a "finally" clause.(”Ö²§8ôÄÜ Å.
+E	java:S108J")Either remove or fill this block of code.(É®£8Ï±ì Å.
+S
+java:S1143»"5Remove this return statement from this finally block.(ûÁİ…8şğ Å.
+l
+java:S2095²"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(ìûÙ»øÿÿÿÿ8ğÖğ Å.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¯Ø§8¦Û Å.
+F
+java:S2115>")Add password protection to this database.(”Ö²§8ÿÛÅ Å.
+E	java:S108.")Either remove or fill this block of code.(É®£8Ô¥ê Å.
